@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "default_output_dir": "./conversao_output",
+  "encoding": "utf-8",
+  "supported_databases": [
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "sqlserver"
+  ]
+}
